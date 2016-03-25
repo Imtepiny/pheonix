@@ -1,0 +1,7 @@
+#The following codes is to set files that will be ignored(files will be untracked)
+*.class
+*.~
+*.tmp
+*.log
+
+
